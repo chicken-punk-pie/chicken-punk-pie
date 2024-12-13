@@ -5,6 +5,7 @@
 - ⚡ I enjoy making small python projects on my Raspberry Pi
 - 🎙 I also enjoy live audio engineering
 - 🎽 I was a collegiate pole vaulter
+- 🚽 Yes, my profile is a purple toilet that I helped install in Honduras
 
 <!--
 **chicken-punk-pie/chicken-punk-pie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
